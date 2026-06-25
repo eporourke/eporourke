@@ -1,8 +1,4 @@
-I'm a data engineer with a background in nonprofit operations, legal advocacy, and field research. Before moving into data, I spent years working with farmworkers, immigrant communities, and mission-driven organizations, experiences that shaped the way I think about information and systems.
-
-Today, I'm interested in using data to support public-interest work, strengthen organizations, and help people make sense of complex problems. I enjoy data quality, process improvement, investigation, and connecting disparate sources of information to build a clearer picture of what's happening.
-
-Whether the challenge is a messy dataset, a broken process, or a gap in institutional knowledge, I enjoy tracing problems to their source and building solutions that last.
+Hey there! I'm Erin, and I love digging through PDFs to find that needle in a haystack. Databases are my first love, and I think a lot about how to get multiple kinds of information into them - written reports, locations, pdf data, information from field research, etc.
 
 <!--
 **eporourke/eporourke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
